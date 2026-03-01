@@ -1,0 +1,20 @@
+index.html<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Sona Beauty</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Sona Beauty</h1>
+  <p>Tienda online de productos de belleza</p>
+
+  <div class="producto">
+    <h3>Crema facial</h3>
+    <p>$10 USD</p>
+    <button>Comprar</button>
+  </div>
+
+</body>
+</html>
